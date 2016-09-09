@@ -2,6 +2,8 @@
   Script identifies any unEncrypted/ unsecure wifi connection that is in reach of your WiFi card.
 
   From : Prateek kumar Singh - @singhPrateik
+
+  Blog : Geekeefy.wordpress.com
 #>
 
 

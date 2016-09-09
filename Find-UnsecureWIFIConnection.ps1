@@ -1,7 +1,7 @@
 <#
   Script identifies any unEncrypted/ unsecure wifi connection that is in reach of your WiFi card.
 
-  From : Prateek Singh - @singhPrateik
+  From : Prateek kumar Singh - @singhPrateik
 #>
 
 

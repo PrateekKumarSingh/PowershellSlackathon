@@ -1,1 +1,1 @@
-gcm gci
+"Hello world"
